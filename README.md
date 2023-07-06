@@ -10,7 +10,7 @@ This project provides a Linux kernel module that lists all current tasks in a tr
 ## Installation:
 
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/your-repo.git`
+   `git clone https://github.com/Sharath-44/List-all-current-Tasks.git`
 
 2. **Compile the kernel module:**
    `make`
