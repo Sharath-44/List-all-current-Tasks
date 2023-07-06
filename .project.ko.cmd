@@ -1,0 +1,1 @@
+cmd_/home/sharath/Desktop/OS_Project/project.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sharath/Desktop/OS_Project/project.ko /home/sharath/Desktop/OS_Project/project.o /home/sharath/Desktop/OS_Project/project.mod.o;  true
